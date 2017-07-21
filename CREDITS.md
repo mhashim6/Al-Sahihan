@@ -1,6 +1,6 @@
 OPEN-SOURCE LIBRARIES:
 
-- [**Open-Hadith-Data / CC-BY-4.0**](https://github.com/mhashim6/Open-Hadith-Data/blob/master/LICENSE.txt).
+- [**Open-Hadith-Data / ODbL**](https://github.com/mhashim6/Open-Hadith-Data/blob/master/LICENSE).
 - [**SQLite-Asset-Helper / Apache-2.0**](https://github.com/jgilfelt/android-sqlite-asset-helper/blob/master/LICENSE).
 - [**Calligraphy / Apache-2.0**](https://github.com/chrisjenx/Calligraphy/blob/master/LICENSE).
 - [**AppUpdater / Apache-2.0**](https://github.com/javiersantos/AppUpdater/blob/master/LICENSE).
