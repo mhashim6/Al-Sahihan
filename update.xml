@@ -2,7 +2,7 @@
   <update>
     <latestVersion>1.3.0.0</latestVersion>
     <latestVersionCode>2</latestVersionCode>
-    <url>https://forum.xda-developers.com/attachment.php?attachmentid=4222456&d=1500933712</url>
+    <url>https://goo.gl/uuHovc</url>
      <releaseNotes>
 - ignorance for Arabic letters 'ة' and 'ه', for they might be confusing for some users.
 - better saved Ahadith page, using tab layout.
