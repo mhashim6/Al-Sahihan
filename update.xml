@@ -1,17 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.3.5.0</latestVersion>
-    <latestVersionCode>3</latestVersionCode>
+    <latestVersion>1.4.0.0</latestVersion>
+    <latestVersionCode>4</latestVersionCode>
     <url>https://goo.gl/zvaiBU</url>
-     <releaseNotes>
-- ignorance for Arabic letters 'ة' and 'ه', for they might be confusing for some users.
-- better saved Ahadith page, using tab layout.
-- reduced apk size to 7MiB.
-- slightly enhancing UX by showing progress bars.
-- better Landscape layout.
-- better About page.
-- fixed a bug in language after orientation.
-- general bug fixes.
-     </releaseNotes>
   </update>
 </AppUpdater>
