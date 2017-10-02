@@ -13,5 +13,5 @@ OPEN-SOURCE LIBRARIES:
 - **Support Design by Google**.
 -------
 CONTRIBUTIONS:
-
 - [**UI CONTRIBUTIONS - BAYAN HASHIM**](https://www.behance.net/bayan_hash3797).
+- **Book Icon Designed by Freepik**
